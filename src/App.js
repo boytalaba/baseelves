@@ -257,7 +257,7 @@ function App() {
                 <div className="title">
                   <h5>Base Elves</h5>
                   <p>
-                    Price: <b>0.03 ETH </b>
+                    Price: <b>0.003 ETH </b>
                   </p>
                 </div>
               </div>
