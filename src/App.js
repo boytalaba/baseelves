@@ -408,8 +408,8 @@ function App() {
         
 
         <p>
-          The funds from the MUupunks NFT project are going into creating a
-          Digitaly art signed NFTS on MUUchain.
+          Long time ago, about 1 million years ago, before iPhones, CZ, Elon Musk, Justin Suns, and the like, humans, elves, and other species lived in peace and harmony in a land called Velleity. Everyone was happy and complimented each other's weaknesses and strengths. Unity, respect, and loyalty are practiced. Until one day, depletion of resources came. A great war broke out for these resources and devastated the land of Velleity. These events caused injury, death, and the extinction of species. The land was not what it was before; toxic chemicals and radiation were all over the land, making it impossible to inhabit. 500,000 years after the war had passed, we all thought no one had survived. A new dawn rose, and a new breed of elves came out of caves and shelters. These species are not what they were before; they are now stronger, brighter, and based. -- BASED ELVES
+
         </p>
       </HistorySection>
 
@@ -423,7 +423,7 @@ function App() {
       <Footer>
         <div className="text">
           <p>
-            Copyright © 2022 MuuPunks
+            Copyright © 2023 Base Elves
             <br />
             All rights reserved
           </p>
