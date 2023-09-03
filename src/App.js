@@ -238,7 +238,7 @@ function App() {
             <p>
               Base Elves NFT 
               launching on September 3 , 2023 on the Base blockchain
-              for 0.003 EHT each!
+              for 0.003 ETH each!
             </p>
 
             <a href="https://t.me/baseelves">
