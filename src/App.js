@@ -241,6 +241,12 @@ function App() {
               for 0.003 ETH each!
             </p>
 
+
+                
+              <a href="https://www.twitter.com/baseelves">
+              <button>Twitter</button>
+            </a>
+
             <a href="https://t.me/baseelves">
               <button>Join Telegram</button>
             </a>
