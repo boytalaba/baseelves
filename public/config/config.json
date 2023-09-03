@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x98F1b0531aFeaE4e0A9086BFE2469b8958F4D881",
+  "SCAN_LINK": "https://basescan.org/address/0x98f1b0531afeae4e0a9086bfe2469b8958f4d881",
+  "NETWORK": {
+    "NAME": "Base",
+    "SYMBOL": "ETH",
+    "ID": 8453
+  },
+  "NFT_NAME": "Base Elves",
+  "SYMBOL": "Base Elves",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": "3000000000000000", 
+  "DISPLAY_COST":0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
+
+
+
+
+
